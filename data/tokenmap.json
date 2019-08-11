@@ -243,5 +243,14 @@
     {        "id": 1241,        "upgrademap": 0,        "rebuild": 2,        "name": "* Inferno"    },
     {        "id": 1242,        "upgrademap": 0,        "rebuild": 0,        "name": "Buckbeak"     },
     {        "id": 1243,        "upgrademap": 0,        "rebuild": 1,        "name": "* Giant Owl"  },
-    {        "id": 1244,        "upgrademap": 0,        "rebuild": 2,        "name": "* Fierce Falcon"  }
+    {        "id": 1244,        "upgrademap": 0,        "rebuild": 2,        "name": "* Fierce Falcon"  },
+    {        "id": 1245,        "upgrademap": 0,        "rebuild": 0,        "name": "Saturn's Sandworm"  }
+    {        "id": 1246,        "upgrademap": 0,        "rebuild": 1,        "name": "* Spooky Spider"     },
+    {        "id": 1247,        "upgrademap": 0,        "rebuild": 2,        "name": "* Haunted Vacuum"    },
+    {        "id": 1248,        "upgrademap": 0,        "rebuild": 0,        "name": "PPG Smartphone"  },
+    {        "id": 1249,        "upgrademap": 0,        "rebuild": 1,        "name": "* PPG Hotline"     },
+    {        "id": 1250,        "upgrademap": 0,        "rebuild": 2,        "name": "* Powerpuff Mag-Net"    },
+    {        "id": 1251,        "upgrademap": 0,        "rebuild": 0,        "name": "Mega Blast Bot"  }
+    {        "id": 1252,        "upgrademap": 0,        "rebuild": 1,        "name": "* Ka-Pow Cannon"     },
+    {        "id": 1253,        "upgrademap": 0,        "rebuild": 2,        "name": "* Slammin’ Guitar"    },
 ]
