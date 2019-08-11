@@ -253,4 +253,16 @@
     {        "id": 1251,        "upgrademap": 0,        "rebuild": 0,        "name": "Mega Blast Bot"  }
     {        "id": 1252,        "upgrademap": 0,        "rebuild": 1,        "name": "* Ka-Pow Cannon"     },
     {        "id": 1253,        "upgrademap": 0,        "rebuild": 2,        "name": "* Slammin’ Guitar"    },
+    {        "id": 1254,        "upgrademap": 0,        "rebuild": 0,        "name": "Octi"  }
+    {        "id": 1255,        "upgrademap": 0,        "rebuild": 1,        "name": "* Super Skunk"     },
+    {        "id": 1256,        "upgrademap": 0,        "rebuild": 2,        "name": "* Sonic Squid"    },
+    {        "id": 1257,        "upgrademap": 0,        "rebuild": 0,        "name": "T-Car"  }
+    {        "id": 1258,        "upgrademap": 0,        "rebuild": 1,        "name": "* Forklift"     },
+    {        "id": 1259,        "upgrademap": 0,        "rebuild": 2,        "name": "* T-Plane"    },
+    {        "id": 1260,        "upgrademap": 0,        "rebuild": 0,        "name": "Raven's Spellbook"  }
+    {        "id": 1261,        "upgrademap": 0,        "rebuild": 1,        "name": "* Raven Wings"     },
+    {        "id": 1262,        "upgrademap": 0,        "rebuild": 2,        "name": "* Giant Hand"    },
+    {        "id": 1263,        "upgrademap": 0,        "rebuild": 0,        "name": "Titan Robot"  }
+    {        "id": 1264,        "upgrademap": 0,        "rebuild": 1,        "name": "* T-Rocket"     },
+    {        "id": 1265,        "upgrademap": 0,        "rebuild": 2,        "name": "* Robot Retriever"    },
 ]
