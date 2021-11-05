@@ -1,5 +1,0 @@
-*.out
-*.bin
-node_modules
-build
-dist
