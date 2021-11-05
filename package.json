@@ -16,7 +16,7 @@
     "node-hid": "^2.1.1",
     "pad": "^3.2.0",
     "serialport": "^9.2.5",
-    "usb": "^1.8.0"
+    "usb": "2.0.0-alpha.2"
   },
   "browser": {
     "node.js": "browser.js",
