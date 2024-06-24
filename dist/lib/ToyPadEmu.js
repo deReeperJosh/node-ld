@@ -271,7 +271,7 @@ var ToyPadEmu = function (_EventEmitter) {
 				console.log('REQUEST (CMD_CHAL): conf:', conf);
 				res.payload = new Buffer(8);
 				var rand = _this3.burtle.rand();
-				//console.log('RNG',rand.toString(16))
+				console.log('RNG',rand.toString(16))
 				res.payload.writeUInt32LE(rand, 0);
 				//console.log('response payload before encryption:',res.payload)
 				res.payload.writeUInt32BE(conf, 4);

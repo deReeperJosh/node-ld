@@ -25,6 +25,8 @@ var Burtle = function () {
             for (i = 0; i < 42; ++i) {
                 this.rand(x);
             }
+            console.log("Seed: ", seed);
+            console.log("A: ", x.a, "B: ", x.b, "C: ", x.c, "D: ", x.d);
         }
     }, {
         key: "rand",

@@ -2,7 +2,7 @@
   "name": "node-ld",
   "version": "2.0.0",
   "description": "",
-  "repository": "https://github.com/Berny23/node-ld",
+  "repository": "https://github.com/deReeperJosh/node-ld",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
