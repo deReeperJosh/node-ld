@@ -7,7 +7,7 @@ var isWin = process.platform === 'win32'
 
 function LibUSBTransport(){
 	var self = this
-	var dev = self.dev = usb.findByIds(0x0e6f,0x0241);
+	var dev = self.dev = usb.findByIds(0x1430,0x0150);
 	if(!dev) 
 		throw new Error('Device Not Found')
 

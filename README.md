@@ -24,7 +24,7 @@ libusb-1.0
 ### Installation
 
 ```bash
-git clone https://github.com/Berny23/node-ld.git
+git clone https://github.com/deReeperJosh/node-ld.git
 cd node-ld
 npm install
 ```

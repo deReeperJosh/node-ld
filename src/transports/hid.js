@@ -4,8 +4,8 @@ util.inherits(HIDTransport, EventEmitter)
 
 var isWin = process.platform === 'win32'
 var HID = require('node-hid')
-var vid = 0x0E6F
-var pid = 0x0241
+var vid = 0x1430
+var pid = 0x0150
 
 function HIDTransport() {
   var self = this

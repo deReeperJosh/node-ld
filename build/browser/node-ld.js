@@ -1117,8 +1117,8 @@ util.inherits(HIDTransport, EventEmitter);
 
 var isWin = process.platform === 'win32';
 var HID = require('node-hid');
-var vid = 0x0E6F;
-var pid = 0x0241;
+var vid = 0x1430;
+var pid = 0x0150;
 
 function HIDTransport() {
   var _this = this;
@@ -1188,7 +1188,7 @@ function LibUSBTransport() {
 	var _this = this;
 
 	var self = this;
-	var dev = self.dev = usb.findByIds(0x0e6f, 0x0241);
+	var dev = self.dev = usb.findByIds(0x1430, 0x0150);
 	if (!dev) throw new Error('Device Not Found');
 
 	dev.open();
