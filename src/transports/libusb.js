@@ -22,7 +22,12 @@ function LibUSBTransport(){
 	devin.startPoll()
 
 	devin.on('data',function(data){
+		console.log('data devin: ' + data);
 		self.emit('data',data)
+	})
+
+	devin.on('data',function(data){
+		console.log('data devout: ' + data);
 	})
 
 	devin.on('end',function(){
